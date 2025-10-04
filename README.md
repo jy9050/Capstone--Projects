@@ -33,11 +33,9 @@ It focuses on analyzing bike-share usage patterns to differentiate between **cas
 
 ## 📸 Dashboard Previews  
 
-### Bike Analysis Dashboard  
-![Bike Dashboard version 1](images/bike_analysis.png)  
-
-### Bike Analysis Dashboard  
-![Bike Dashboard version 2](images/bike_analysis.png)
+**Preview**:  
+![Bike Dashboard v1](Bike%20Dashboard%20version1.png)  
+![Bike Dashboard v2](Bike%20Dashboard%20version2.png)  
 
 ---
 

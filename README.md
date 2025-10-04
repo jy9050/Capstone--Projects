@@ -26,15 +26,19 @@ It focuses on analyzing bike-share usage patterns to differentiate between **cas
 ---
 
 ## 📂 Files  
-- `Bike-Analysis.pbix` → Dashboard of member vs. casual usage  
-- `Capstone.pbix` → Final Capstone dashboard (with all insights)  
-
+⚠️ Due to GitHub’s 25 MB file size limit, the Power BI file is hosted on Google Drive:  
+👉 [Download Capstone Dashboard v1 (.pbix)](https://drive.google.com/file/d/1ONVaeiUB0AmMihw4cbTtQ5VopO-EWMdR/view?usp=sharing)  
+👉 [Download Capstone Dashboard v2(.pbix)](https://drive.google.com/file/d/1wl4mMG7pvzS6KlaH3RLkNg3X66Fd-TSJ/view?usp=sharing)
 ---
 
 ## 📸 Dashboard Previews  
 
 ### Bike Analysis Dashboard  
-![Bike Dashboard](images/bike_analysis.png)  
+![Bike Dashboard version 1](images/bike_analysis.png)  
 
-### Capstone Final Dashboard  
-![Capstone Dashboard](images/capstone_dashboard.png)  
+### Bike Analysis Dashboard  
+![Bike Dashboard version 2](images/bike_analysis.png)
+
+---
+
+✨ This project demonstrates my ability to work with real-world datasets, apply analytical thinking, and build interactive dashboards using Excel & Power BI.
